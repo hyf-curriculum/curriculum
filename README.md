@@ -2,14 +2,14 @@
 
 >Here you can find an overview of the HackYourFuture program. It gives insight in how our program is structured, organized, what you can expect from the modules that we teach and last but not least where we teach and where you can find support during the week. Our half year course is divided into modules that last 3 weeks with exception of the project module that lasts 6 weeks. Below you can find a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository. 
 
-- Are you a new teacher? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-teacher.md) for some practical tips on how to get started!
-- Are you a new student? Take a look [here](https://github.com/HackYourFuture/curriculum/blob/master/i-am-a-new-student.md) to see how to prepare for your first class!
+- Are you a new teacher? Take a look [here](https://github.com/hyf-curriculum/overview/blob/master/i-am-a-new-teacher.md) for some practical tips on how to get started!
+- Are you a new student? Take a look [here](https://github.com/hyf-curriculum/overview/blob/master/i-am-a-new-student.md) to see how to prepare for your first class!
 
-### **Are you either a new student or a new teacher? Take a look at what we see as our [core values](https://github.com/HackYourFuture/curriculum/blob/master/hyf-core-values.md) at HackYourFuture before you join our community** :heart:
+### **Are you either a new student or a new teacher? Take a look at what we see as our [core values](https://github.com/hyf-curriculum/overview/blob/master/hyf-core-values.md) at HackYourFuture before you join our community** :heart:
 
 # What do we teach?
 
-## [HTML/CSS](https://github.com/HackYourFuture/HTML-CSS)/[CLI](https://github.com/HackYourFuture/CommandLine/)
+## [HTML/CSS](https://github.com/hyf-curriculum/HTML-CSS)/[CLI](https://github.com/hyf-curriculum/CommandLine/)
 
 >HTML is the standard markup language for creating Web pages. CSS is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow students, presenting and explaining your work.
 
@@ -38,7 +38,7 @@
 - Write basic shell scripts to ease the programming life.
 
 
-## [JavaScript1](https://github.com/HackYourFuture/JavaScript1/)/[GIT](https://github.com/HackYourFuture/Git)/ [debugging](https://github.com/HackYourFuture/debugging)
+## [JavaScript1](https://github.com/hyf-curriculum/JavaScript1/)/[GIT](https://github.com/hyf-curriculum/Git)/ [debugging](https://github.com/hyf-curriculum/debugging)
 
 > In this module we use Node to run JavaScript.
 
@@ -76,7 +76,7 @@ After this sessions students should:
 - Have an understanding of pull requests and forking workflow.
 
 
-## [JavaScript2](https://github.com/HackYourFuture/JavaScript2)
+## [JavaScript2](https://github.com/hyf-curriculum/JavaScript2)
 
 > JavaScript in the browser with HTML and CSS
 
@@ -97,7 +97,7 @@ After this sessions students should:
 - Events
 - Callbacks
 
-## [JavaScript3](https://github.com/HackYourFuture/JavaScript3)
+## [JavaScript3](https://github.com/hyf-curriculum/JavaScript3)
 
 ### **Module goals for JavaScript3**
 
@@ -110,7 +110,7 @@ After this sessions students should:
 - (re)writing data structures (in JSON)
 - Promises
 
-## [Node](https://github.com/HackYourFuture/Node.js)
+## [Node](https://github.com/hyf-curriculum/Node.js)
 
 >Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine). For almost any web application, it is essential to have a backend. The backend is a place where we, the developers, can store our data, communicate with users and let the users communicate with us, do smart things like calculations, data processing etc.
 
@@ -129,7 +129,7 @@ There are two reasons why we at HYF choose Node.JS over others:
 - Using `process` to read arguments from the CLI
 - Using `express` to make a RESTful API
 
-## [Database](https://github.com/HackYourFuture/databases)
+## [Database](https://github.com/hyf-curriculum/databases)
 
 >What is a database? A place to store “things”. Could be as simple as a phone book (physical) or as complex as storing all the inventory for Amazon.com. Why use databases? Easier than having data all over the place. Puts the problem of collecting, storing, sorting and searching data in a single place. There are two primary types of database systems - relational and NoSQL. Relational databases have tables that relate to one another and can be “joined” ACID vs BASE
 
@@ -144,7 +144,7 @@ By the end of this module, students should have a familiarity with and basic und
 - Non-relational data and NoSQL
 - MongoDB as an example of a NoSQL database
 
-## [React](https://github.com/HackYourFuture/React)
+## [React](https://github.com/hyf-curriculum/React)
 
 ### **Module goals**
 By the end of this module, students should have a familiarity with and basic understanding of the following:
@@ -155,7 +155,7 @@ By the end of this module, students should have a familiarity with and basic und
 - Flux & MobX MobX
 - API Integration
 
-## [Project](https://github.com/HackYourFuture/Project)
+## [Project](https://github.com/hyf-curriculum/Project)
 
 >In this module students work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project. In this course requirement analysis and project management are core themes while building a full-stack project.
 
